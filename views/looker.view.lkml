@@ -1,5 +1,5 @@
 # The name of this view in Looker is "Persons2"
-view: persons2 {
+view: persons_table {
   # The sql_table_name parameter indicates the underlying database table
   # to be used for all fields in this view.
   sql_table_name: [db_sse.Persons2] ;;

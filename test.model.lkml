@@ -7,6 +7,6 @@ include: "/views/looker.view.lkml"                # include all views in the vie
 # # Select the views that should be a part of this model,
 # # and define the joins that connect them together.
 #
-explore: persons2 {
+explore: persons_table {
 
 }
